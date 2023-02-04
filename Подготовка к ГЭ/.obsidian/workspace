@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "0ad7057c011b1565",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e689daae2d57e61",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "ООП/Тема 1. Классы и объекты.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f7f1c05c95ddbde0",
+    "type": "split",
+    "children": [
+      {
+        "id": "58b697ccfc0c2e81",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee64421cfc533aa9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4eca25e436d0e114",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "559004f7dc74606d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 175.5
+  },
+  "right": {
+    "id": "b8ad02d84220d8d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "80b0a633dfb4f59e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "106f98430fd75a85",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ООП/Тема 1. Классы и объекты.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a19c9c39a473056d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ООП/Тема 1. Классы и объекты.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "394ebfccf63e1e61",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b5b73a1fedff76b3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ООП/Тема 1. Классы и объекты.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "2e689daae2d57e61",
+  "lastOpenFiles": [
+    "ООП/Тема 6. Виртуальные функции и полиморфизм.md",
+    "ООП/Тема 2. Статистические и динамические типы.md",
+    "ООП/Тема 1. Классы и объекты.md",
+    "ООП/Тема 12. Многопоточность в C-SHARP.md",
+    "ООП/Тема 11. Событийная модель в C-SHARP.md",
+    "ООП/Тема 10. Параметризация объектов.md",
+    "ООП/Тема 9. Исключительные ситуации..md",
+    "ООП/Тема 8. Понятие интерфейса в C-SHARP.md",
+    "ООП/Тема 7. Перегрузка операторов.md",
+    "ООП/Тема 5. Наследование.md"
+  ]
+}
